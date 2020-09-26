@@ -16,4 +16,3 @@ io.on('connection', (socket, req)=> {
 
 server.listen(3000);
 
-console.log("I am great")
