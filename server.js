@@ -14,4 +14,8 @@ io.on('connection', (socket, req)=> {
     })
 })
 
+<<<<<<< HEAD
+=======
+server.listen(3000);
+>>>>>>> development
 
